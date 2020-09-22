@@ -2,6 +2,8 @@
 	fashion_mnist dataset
 
 ### tut02.py
+	imdb dataset
+	
 	text classification
 		save model
 
